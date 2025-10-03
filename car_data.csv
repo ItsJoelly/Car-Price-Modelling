@@ -1,0 +1,151 @@
+Car_Name,Year,Fuel_Type,Selling_type,Transmission,Owner,Present_Price,Driven_Miles,Selling_Price
+Renault Duster,2006.0,CNG,Dealer,Automatic,0.0,13.68,156404.0,5.56
+,2019.0,CNG,Individual,,2.0,8.46,79369.0,
+Honda City,2005.0,Diesel,Dealer,Manual,0.0,,60875.0,1.97
+Kia Seltos,2009.0,Diesel,Individual,Manual,0.0,21.79,51116.0,11.43
+Ford EcoSport,2008.0,Diesel,Dealer,Manual,0.0,24.75,99211.0,17.64
+Kia Seltos,2018.0,Diesel,Individual,,2.0,25.37,37078.0,20.05
+Volkswagen Polo,2014.0,Petrol,Dealer,Manual,,8.29,157810.0,5.3
+Toyota Corolla,2009.0,Petrol,Individual,Automatic,,13.22,111007.0,9.72
+Renault Duster,2018.0,CNG,Individual,Automatic,1.0,3.77,132501.0,
+,2016.0,CNG,Individual,Manual,1.0,25.87,124393.0,20.88
+Honda City,2007.0,CNG,Individual,Manual,0.0,22.06,94318.0,14.97
+Toyota Corolla,2013.0,Petrol,Dealer,Manual,1.0,29.25,142921.0,19.23
+Renault Duster,2009.0,CNG,Dealer,,3.0,10.43,62621.0,9.14
+,2023.0,Diesel,Dealer,Automatic,3.0,17.12,119556.0,12.02
+Honda City,2010.0,Petrol,Dealer,Manual,3.0,27.11,55764.0,19.42
+Mahindra XUV500,2021.0,Petrol,Dealer,Manual,3.0,13.62,144580.0,8.11
+Volkswagen Polo,2018.0,Petrol,Dealer,Automatic,2.0,6.91,51919.0,5.4
+Mahindra XUV500,,Petrol,Dealer,Automatic,2.0,19.99,142752.0,17.13
+Kia Seltos,2012.0,Diesel,Individual,Manual,2.0,2.98,78015.0,1.74
+Kia Seltos,2011.0,CNG,Individual,Automatic,1.0,19.05,,10.78
+Toyota Corolla,,CNG,,Automatic,2.0,,92725.0,8.43
+,2019.0,CNG,Individual,Manual,2.0,26.06,88961.0,20.85
+Volkswagen Polo,,,Individual,Automatic,0.0,21.25,41972.0,14.35
+Toyota Corolla,2020.0,Diesel,Dealer,Manual,0.0,26.84,,
+Honda City,2014.0,CNG,Dealer,Manual,1.0,20.4,36983.0,11.63
+Tata Nexon,2015.0,Petrol,Individual,Manual,1.0,24.84,147221.0,10.55
+Tata Nexon,2020.0,CNG,Dealer,Manual,2.0,23.01,72201.0,20.67
+Mahindra XUV500,2012.0,Petrol,Dealer,Manual,,9.07,156774.0,4.28
+Hyundai i20,2013.0,CNG,Dealer,Automatic,3.0,5.69,189045.0,3.88
+Honda City,2006.0,CNG,Individual,Manual,3.0,10.6,185163.0,
+Ford EcoSport,2022.0,Petrol,,,1.0,25.61,19527.0,19.74
+Honda City,2022.0,Petrol,Dealer,Manual,1.0,6.07,,3.8
+Tata Nexon,2022.0,Diesel,Dealer,Automatic,3.0,18.32,86962.0,11.66
+Maruti Swift,2008.0,Diesel,Individual,Manual,1.0,25.3,11354.0,20.24
+Tata Nexon,,Diesel,Individual,Automatic,2.0,29.72,24208.0,18.58
+Tata Nexon,2016.0,CNG,Individual,Automatic,1.0,29.67,107938.0,18.6
+Toyota Corolla,2006.0,CNG,,Automatic,3.0,14.68,21695.0,
+,2015.0,Petrol,Individual,Manual,0.0,5.76,60454.0,3.32
+Honda City,2021.0,Diesel,,Automatic,0.0,,141091.0,4.32
+Toyota Corolla,2022.0,CNG,Dealer,Automatic,3.0,17.16,15123.0,10.54
+Honda City,2018.0,Diesel,Dealer,Manual,1.0,23.83,,10.82
+Volkswagen Polo,2011.0,Petrol,Dealer,Automatic,1.0,9.15,18951.0,5.55
+Honda City,2021.0,Petrol,Individual,Automatic,2.0,7.6,89810.0,6.39
+Honda City,2005.0,CNG,Individual,,1.0,7.3,95894.0,3.21
+,2023.0,CNG,Dealer,Automatic,3.0,20.95,69598.0,17.27
+Kia Seltos,2013.0,Diesel,Dealer,Manual,1.0,27.5,198562.0,19.93
+Honda City,2005.0,Petrol,Individual,Automatic,,19.96,44931.0,9.38
+Honda City,2017.0,CNG,Dealer,Manual,0.0,28.52,183287.0,17.22
+Ford EcoSport,2005.0,Diesel,Dealer,Manual,1.0,16.71,143470.0,14.86
+Mahindra XUV500,2022.0,CNG,Individual,Manual,3.0,8.99,,
+Ford EcoSport,2020.0,Diesel,Individual,Automatic,3.0,17.73,135135.0,
+Ford EcoSport,2010.0,Diesel,Individual,Automatic,2.0,13.77,28917.0,9.84
+Tata Nexon,2009.0,CNG,,Manual,0.0,,99415.0,1.69
+Tata Nexon,2015.0,Diesel,Dealer,Manual,1.0,19.69,172538.0,13.78
+Kia Seltos,2008.0,Petrol,Individual,Manual,0.0,3.64,124979.0,2.56
+Honda City,,CNG,,Automatic,2.0,14.25,144840.0,8.92
+Mahindra XUV500,2019.0,Petrol,Dealer,Manual,1.0,10.25,87363.0,5.96
+Ford EcoSport,,Diesel,Individual,Manual,0.0,22.28,70447.0,18.16
+Tata Nexon,2017.0,Diesel,Dealer,Manual,3.0,23.8,52945.0,10.93
+Ford EcoSport,,Diesel,Dealer,Manual,1.0,3.98,13658.0,2.46
+Renault Duster,2015.0,Petrol,Dealer,Automatic,2.0,21.17,,16.18
+Hyundai i20,2020.0,CNG,Dealer,Manual,2.0,22.42,165259.0,
+Ford EcoSport,2008.0,Petrol,Dealer,Manual,1.0,7.55,34132.0,4.49
+,2018.0,Petrol,Dealer,Manual,0.0,3.51,100504.0,1.89
+Ford EcoSport,2007.0,Diesel,Individual,Manual,3.0,4.91,21497.0,3.75
+Hyundai i20,2011.0,Petrol,Dealer,Manual,0.0,26.83,175475.0,17.91
+,2014.0,Petrol,Individual,Automatic,2.0,24.89,125457.0,22.21
+Tata Nexon,2018.0,CNG,Individual,Automatic,,12.18,13537.0,
+Honda City,2017.0,Diesel,Individual,Manual,1.0,5.52,80061.0,4.84
+Ford EcoSport,2011.0,Diesel,Dealer,Manual,0.0,20.23,118746.0,10.53
+,2008.0,CNG,Individual,Automatic,2.0,13.96,44652.0,6.57
+Kia Seltos,2005.0,Diesel,Individual,Automatic,2.0,10.57,109052.0,7.23
+Kia Seltos,2019.0,CNG,Dealer,Automatic,0.0,,31921.0,14.21
+Volkswagen Polo,2008.0,,Individual,Automatic,,,128136.0,10.92
+Toyota Corolla,2005.0,CNG,Dealer,Manual,2.0,16.75,47915.0,7.57
+Mahindra XUV500,,Petrol,Dealer,Manual,2.0,28.93,100151.0,17.0
+Mahindra XUV500,2014.0,Diesel,Dealer,Manual,3.0,2.68,188401.0,2.06
+Kia Seltos,2023.0,,Individual,,1.0,10.14,,6.64
+Toyota Corolla,2009.0,,Dealer,Automatic,3.0,12.15,27442.0,9.46
+Mahindra XUV500,2011.0,Petrol,,Automatic,1.0,5.47,183420.0,3.16
+Kia Seltos,2018.0,Petrol,Dealer,Manual,2.0,7.11,49410.0,5.0
+,,CNG,Individual,Automatic,,19.29,17311.0,17.05
+Renault Duster,2016.0,Diesel,Individual,Manual,2.0,14.99,,8.96
+Maruti Swift,2016.0,Diesel,,Manual,3.0,13.1,20139.0,7.01
+,2007.0,Diesel,Dealer,Automatic,2.0,24.04,35880.0,13.44
+Toyota Corolla,2021.0,Diesel,Individual,Automatic,3.0,,119600.0,9.51
+Tata Nexon,2023.0,,Dealer,Manual,3.0,,115599.0,11.53
+Toyota Corolla,2010.0,Diesel,Dealer,Manual,3.0,5.68,144761.0,
+Honda City,2012.0,CNG,,Manual,3.0,28.03,,18.53
+Kia Seltos,2016.0,Petrol,Individual,Manual,2.0,16.98,103050.0,10.13
+Ford EcoSport,2013.0,Diesel,Dealer,Manual,1.0,4.5,137053.0,3.57
+Volkswagen Polo,,Petrol,Individual,Manual,3.0,20.86,150354.0,9.74
+Ford EcoSport,2013.0,Diesel,Individual,Manual,3.0,28.38,107685.0,14.81
+Maruti Swift,2005.0,Diesel,Dealer,Automatic,,18.07,88063.0,
+Maruti Swift,2022.0,CNG,Dealer,Manual,2.0,22.53,,16.05
+Hyundai i20,2023.0,Diesel,Individual,Manual,3.0,18.79,,8.43
+Renault Duster,2014.0,Diesel,Dealer,Automatic,3.0,15.61,38331.0,11.75
+Hyundai i20,2022.0,Diesel,Individual,Manual,3.0,18.64,66090.0,11.05
+Renault Duster,2009.0,Diesel,Dealer,Manual,1.0,11.63,,
+Mahindra XUV500,2017.0,,Individual,Automatic,2.0,,24008.0,
+Kia Seltos,2005.0,CNG,Individual,Automatic,1.0,4.55,48245.0,2.77
+Volkswagen Polo,2021.0,Petrol,Dealer,Manual,1.0,17.02,48196.0,10.13
+Volkswagen Polo,2014.0,Diesel,Individual,,0.0,15.33,106494.0,8.31
+,,Petrol,Dealer,,0.0,,66048.0,6.16
+Tata Nexon,2023.0,Petrol,,Manual,3.0,21.63,35340.0,14.27
+Renault Duster,2005.0,Diesel,Individual,Automatic,,7.31,39019.0,3.84
+Hyundai i20,2018.0,Diesel,Individual,Manual,,12.81,51003.0,9.06
+Honda City,2020.0,Petrol,Dealer,Automatic,2.0,22.23,120393.0,13.65
+Volkswagen Polo,2015.0,Diesel,Dealer,Automatic,1.0,11.06,185932.0,
+Maruti Swift,,Diesel,Dealer,Manual,0.0,7.7,178596.0,5.93
+Tata Nexon,2015.0,,Individual,Automatic,2.0,15.75,69046.0,8.8
+Toyota Corolla,2023.0,CNG,Dealer,Manual,,28.53,97054.0,19.81
+Hyundai i20,2023.0,Petrol,Individual,Manual,1.0,8.82,100572.0,5.39
+Ford EcoSport,,,Dealer,,0.0,,101105.0,5.28
+Honda City,2013.0,,Individual,Manual,0.0,20.56,150893.0,14.37
+Honda City,2009.0,Diesel,Individual,,2.0,10.51,121592.0,6.3
+Honda City,2013.0,CNG,Individual,Automatic,0.0,27.03,18189.0,12.87
+Renault Duster,2017.0,,Individual,Automatic,1.0,23.88,53076.0,13.92
+Renault Duster,2018.0,Diesel,Dealer,Automatic,3.0,6.62,46738.0,4.62
+Tata Nexon,2010.0,Diesel,Individual,Automatic,2.0,19.05,120227.0,10.3
+Hyundai i20,2022.0,CNG,Individual,Manual,3.0,21.32,121707.0,16.74
+Maruti Swift,2007.0,Diesel,Dealer,Automatic,,2.61,73780.0,1.95
+Toyota Corolla,2022.0,Petrol,Individual,Manual,0.0,10.86,189542.0,4.53
+Mahindra XUV500,2008.0,CNG,Individual,Manual,0.0,2.78,6362.0,1.34
+Toyota Corolla,,,,Automatic,2.0,14.32,199406.0,7.91
+Toyota Corolla,2020.0,Diesel,Individual,Manual,0.0,27.43,110432.0,11.2
+Tata Nexon,2005.0,Diesel,Individual,,1.0,6.11,17459.0,
+Kia Seltos,2015.0,CNG,,Automatic,0.0,21.41,,15.45
+Kia Seltos,2021.0,Diesel,Dealer,Automatic,0.0,22.0,69421.0,14.64
+,2005.0,Petrol,Dealer,Manual,0.0,15.75,80886.0,10.33
+Volkswagen Polo,2006.0,Petrol,Dealer,Automatic,1.0,14.22,54835.0,6.52
+Renault Duster,,CNG,Dealer,Manual,2.0,6.19,10931.0,2.63
+Volkswagen Polo,2014.0,CNG,Dealer,Manual,2.0,21.13,73393.0,18.52
+Toyota Corolla,2014.0,Petrol,Dealer,Manual,3.0,25.53,18520.0,20.59
+Tata Nexon,2019.0,Petrol,Individual,Automatic,1.0,19.24,106535.0,12.62
+Mahindra XUV500,2022.0,,Individual,Manual,,2.56,48407.0,1.93
+,2009.0,Petrol,,Manual,3.0,5.51,173043.0,3.75
+Tata Nexon,2019.0,CNG,Individual,Manual,1.0,27.21,142761.0,16.89
+Renault Duster,2013.0,,Individual,,1.0,5.86,166489.0,2.44
+Maruti Swift,2013.0,,Individual,Manual,2.0,,137626.0,19.63
+Maruti Swift,2018.0,Diesel,Dealer,Manual,0.0,24.93,55363.0,20.79
+Ford EcoSport,2014.0,Petrol,Dealer,,3.0,,64324.0,12.13
+Maruti Swift,2017.0,Petrol,,Manual,,9.69,,4.67
+,2019.0,Petrol,,,2.0,28.79,186268.0,11.88
+Kia Seltos,2005.0,CNG,Individual,Automatic,0.0,,43915.0,1.86
+Volkswagen Polo,2010.0,CNG,Dealer,,0.0,,140194.0,14.69
+Ford EcoSport,2016.0,Petrol,Individual,Automatic,3.0,10.53,62155.0,7.89
+Maruti Swift,2009.0,CNG,Individual,Automatic,,29.63,,12.86
+Hyundai i20,2010.0,CNG,Individual,Automatic,2.0,22.41,107552.0,17.38
+Mahindra XUV500,2016.0,,Dealer,Automatic,2.0,4.62,52599.0,3.3
