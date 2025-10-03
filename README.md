@@ -59,7 +59,7 @@ The dataset contains 150+ records with the following features:
 
 ### 📷 Example Visualization  
 
-![Selling Price vs Present Price](screenshots/output.png)  
+![Selling Price vs Present Price](output.png)  
 
 ---
 
@@ -74,7 +74,7 @@ The dataset contains 150+ records with the following features:
 
 ```bash
 # 1. Clone the repository
-git clone 
+git clone https://github.com/ItsJoelly/Car-Price-Modelling
 cd Car-Price-Prediction
 
 # 2. Install required packages
